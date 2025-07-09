@@ -1,4 +1,5 @@
-![2](https://github.com/user-attachments/assets/9a9d5b3c-c7c6-4a90-b9de-af7b9aa55eda)
+![720P (HD)](https://github.com/user-attachments/assets/c2399388-a65d-43d1-9299-7b2ba98489d0)
+
 
 <!--
 **LunatikDG/LunatikDG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
