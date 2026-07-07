@@ -4,9 +4,14 @@
 
 **1C engineer with 7 years of enterprise experience, currently moving into Go & Java**
 
-[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/LunatikDGNotes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitrygolovinn)
 [![Website](https://img.shields.io/badge/lunatikdg.ru-000000?logo=google-chrome&logoColor=white)](https://lunatikdg.ru)
+[![X](https://img.shields.io/badge/X-@LunatikDG-000000?logo=x&logoColor=white)](https://x.com/LunatikDG)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Notes-blue?logo=telegram&logoColor=white)](https://t.me/LunatikDGNotes)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/LunatikDG)
+[![Habr](https://img.shields.io/badge/Habr-blog-65A3BE?logo=habr&logoColor=white)](https://habr.com/ru/users/LunatikDG)
+[![Infostart](https://img.shields.io/badge/Infostart-profile-FF6600?logoColor=white)](https://infostart.ru/profile/1317668)
+[![VK](https://img.shields.io/badge/VK-profile-0077FF?logo=vk&logoColor=white)](https://vk.com/dmitriygolovinn)
 
 </div>
 
