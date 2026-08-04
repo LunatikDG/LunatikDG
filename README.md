@@ -78,9 +78,6 @@ area — and notes from learning Go as a side project.
   [dev.to](https://dev.to/lunatikdg), [Habr](https://habr.com/ru/users/LunatikDG),
   and [Infostart](https://infostart.ru/profile/1317668)
 
-**Reach out if:** you want to talk about 1C, enterprise automation, or
-integrations — that's where most of my experience is.
-
 ---
 
 <a name="русский"></a>
@@ -125,9 +122,6 @@ WebAssembly и разными API. [goscope](https://github.com/LunatikDG/goscop
 - ✍️ Пишу про инженерию в 1С и заметки о своём изучении Go — на
   [dev.to](https://dev.to/lunatikdg), [Habr](https://habr.com/ru/users/LunatikDG)
   и [Infostart](https://infostart.ru/profile/1317668)
-
-**Напишите мне, если:** хотите обсудить 1С, автоматизацию бизнес-процессов или
-интеграции — в этом основная часть моего опыта.
 
 ---
 
