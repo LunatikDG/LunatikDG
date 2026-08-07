@@ -133,7 +133,7 @@ WebAssembly и разными API. [goscope](https://github.com/LunatikDG/goscop
 
 | | |
 |---|---|
-| **[GetManHTTP](https://github.com/LunatikDG/GetManHTTP)** | HTTP-client for the 1C platform — build request collections, nest them by folder, auto-save on a schedule. ⭐ 12 · 15+ community issues · GPL-3.0 |
+| **[GetManHTTP](https://github.com/LunatikDG/GetManHTTP)** | HTTP-client for the 1C platform — build request collections, nest them by folder, auto-save on a schedule. ⭐ 13 · 15+ community issues · GPL-3.0 |
 | **[goscope](https://github.com/LunatikDG/goscope)** | Interactive Go concurrency visualizer (WebAssembly): goroutines, channels, and deadlocks in your browser. [Live demo →](https://lunatikdg.github.io/goscope/) · MIT |
 
 <div align="center">
