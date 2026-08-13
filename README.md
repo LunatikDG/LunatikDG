@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Dmitriy
 
-**1C engineer with 7+ years of enterprise experience — writing about it, and building personal projects in Go on the side**
+**1C engineer with 7+ years of enterprise experience - writing about it, and building personal projects in Go on the side**
 
 **📚 Blog & writing**
 
@@ -36,7 +36,7 @@
 <a name="english"></a>
 ## 🇬🇧 English
 
-I'm a software engineer with **7+ years of commercial experience in 1C** —
+I'm a software engineer with **7+ years of commercial experience in 1C** -
 enterprise automation, ERP-style business logic, and integrations across a wide
 range of configurations: custom (БСП-based) solutions, УНФ, БП, ЗУП, УТ, ДО, and
 partially ERP. On the tooling side: EDT, integrations of all kinds (message
@@ -46,17 +46,17 @@ HTTP client built for the 1C platform, actively used and maintained for real
 users.
 
 Alongside that core focus, I build personal projects in **Go** to keep learning
-by doing — I'm at a junior level there, currently comfortable with goroutines,
+by doing - I'm at a junior level there, currently comfortable with goroutines,
 channels, WebAssembly, and working with external APIs.
 [goscope](https://github.com/LunatikDG/goscope), a WebAssembly visualizer for Go
 concurrency, is the first result of that.
 
-I'm starting to write publicly about both: 1C engineering — my main professional
-area — and notes from learning Go as a side project.
+I'm starting to write publicly about both: 1C engineering - my main professional
+area - and notes from learning Go as a side project.
 
 **Stack:**
 - **1C (primary, 7+ years):** custom configurations on БСП, УНФ, БП, ЗУП, УТ, ДО,
-  ERP (partial) · EDT · integrations — message brokers, HTTP/WEB services,
+  ERP (partial) · EDT · integrations - message brokers, HTTP/WEB services,
   WebSocket · CI/CD · unit testing
 - **Go (learning, side projects):** goroutines & channels, WebAssembly, working
   with external APIs
@@ -64,15 +64,15 @@ area — and notes from learning Go as a side project.
 **What I bring:**
 - 7+ years of real-world 1C/enterprise experience across a wide range of
   configurations and integration types
-- A builder's mindset — I finish and maintain what I start (see project history
+- A builder's mindset - I finish and maintain what I start (see project history
   below)
-- Curiosity beyond my core stack — I pick up new tools by shipping real (if
+- Curiosity beyond my core stack - I pick up new tools by shipping real (if
   small) things with them
 
 **Currently:**
 - 🛠️ Maintaining [GetManHTTP](https://github.com/LunatikDG/GetManHTTP) for the 1C
   community
-- 🔭 Building [goscope](https://github.com/LunatikDG/goscope) — a Go concurrency
+- 🔭 Building [goscope](https://github.com/LunatikDG/goscope) - a Go concurrency
   visualizer, as a personal project ([live demo](https://lunatikdg.github.io/goscope/))
 - ✍️ Writing about 1C engineering, plus notes from learning Go, on
   [dev.to](https://dev.to/lunatikdg), [Habr](https://habr.com/ru/users/LunatikDG),
@@ -83,20 +83,20 @@ area — and notes from learning Go as a side project.
 <a name="русский"></a>
 ## 🇷🇺 Русский
 
-Я разработчик с **7+ годами коммерческого опыта в 1С** — автоматизация
+Я разработчик с **7+ годами коммерческого опыта в 1С** - автоматизация
 бизнес-процессов, ERP-логика и интеграции в широком спектре конфигураций:
 нетиповые решения на БСП, УНФ, БП, ЗУП, УТ, ДО, частично ERP. Из инструментов:
 EDT, интеграции любых типов (брокеры сообщений, HTTP/WEB-сервисы, WebSocket),
-CI/CD, Unit-тестирование. Мой основной проект здесь — [GetManHTTP](https://github.com/LunatikDG/GetManHTTP),
+CI/CD, Unit-тестирование. Мой основной проект здесь - [GetManHTTP](https://github.com/LunatikDG/GetManHTTP),
 HTTP-клиент для 1С, которым реально пользуются и который я активно поддерживаю.
 
 Помимо основной работы, я делаю личные проекты на **Go**, чтобы учиться на
-практике — пока на уровне джуна, уверенно работаю с горутинами, каналами,
+практике - пока на уровне джуна, уверенно работаю с горутинами, каналами,
 WebAssembly и разными API. [goscope](https://github.com/LunatikDG/goscope) —
-визуализатор конкурентности Go на WebAssembly — первый результат этого.
+визуализатор конкурентности Go на WebAssembly - первый результат этого.
 
-Начинаю публично писать про оба направления: 1С-инженерию — свою основную
-профессиональную область — и заметки о процессе изучения Go как личного
+Начинаю публично писать про оба направления: 1С-инженерию - свою основную
+профессиональную область - и заметки о процессе изучения Go как личного
 проекта.
 
 **Стек:**
@@ -111,13 +111,13 @@ WebAssembly и разными API. [goscope](https://github.com/LunatikDG/goscop
   интеграций
 - Довожу проекты до конца и поддерживаю их, а не бросаю на середине (см. историю
   репозиториев ниже)
-- Любопытство за пределами основного стека — осваиваю новые инструменты, делая
+- Любопытство за пределами основного стека - осваиваю новые инструменты, делая
   на них реальные (пусть и небольшие) вещи
 
 **Чем занимаюсь сейчас:**
 - 🛠️ Поддерживаю [GetManHTTP](https://github.com/LunatikDG/GetManHTTP) для
   сообщества 1С
-- 🔭 Разрабатываю [goscope](https://github.com/LunatikDG/goscope) — визуализатор
+- 🔭 Разрабатываю [goscope](https://github.com/LunatikDG/goscope) - визуализатор
   конкурентности Go, как личный проект ([живое демо](https://lunatikdg.github.io/goscope/))
 - ✍️ Пишу про инженерию в 1С и заметки о своём изучении Go — на
   [dev.to](https://dev.to/lunatikdg), [Habr](https://habr.com/ru/users/LunatikDG)
@@ -133,7 +133,7 @@ WebAssembly и разными API. [goscope](https://github.com/LunatikDG/goscop
 
 | | |
 |---|---|
-| **[GetManHTTP](https://github.com/LunatikDG/GetManHTTP)** | HTTP-client for the 1C platform — build request collections, nest them by folder, auto-save on a schedule. ⭐ 15 · 15+ community issues · GPL-3.0 |
+| **[GetManHTTP](https://github.com/LunatikDG/GetManHTTP)** | HTTP-client for the 1C platform - build request collections, nest them by folder, auto-save on a schedule. ⭐ 15 · 15+ community issues · GPL-3.0 |
 | **[goscope](https://github.com/LunatikDG/goscope)** | Interactive Go concurrency visualizer (WebAssembly): goroutines, channels, and deadlocks in your browser. [Live demo →](https://lunatikdg.github.io/goscope/) · MIT |
 
 <div align="center">
